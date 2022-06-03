@@ -1,3 +1,3 @@
 [submodule "inference/thirdparty/shark-runtime"]
 	path = inference/thirdparty/shark-runtime
-	url = https://github.com/NodLabs/shark-runtime.git
+	url = https://github.com/Eliasj42/SHARK-Runtime-patch
